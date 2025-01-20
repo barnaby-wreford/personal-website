@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barnabywreford.co.uk/sitemap.xml
